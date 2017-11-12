@@ -1,11 +1,14 @@
 body {
 	color: white;
-	background-color:black;
+	background-color: black;
+	background-image: url('../pictures/background.png');
+	background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position: center;
 }
 
 a {
 	color: #DD7528;
-	mouse
 }
 
 a:hover {
