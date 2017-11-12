@@ -1,0 +1,22 @@
+body {
+	color: white;
+	background-color:black;
+}
+
+a {
+	color: #DD7528;
+	mouse
+}
+
+a:hover {
+	color: #F8E038;
+}
+
+h1, h2, h3 {
+	color: #F8D020;
+}
+
+.maintitle {
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
