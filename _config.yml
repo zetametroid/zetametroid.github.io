@@ -3,3 +3,4 @@ name: Ashmedai
 #pygments: true
 baseurl: ""
 future: true
+permalink: :title.html
