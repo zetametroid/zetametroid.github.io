@@ -32,7 +32,11 @@ h3 {
     /*-o-border-image: url(border.png) 30 round;  Opera 11-12.1 */
     border-image: url('../pictures/frame2.png') 6 stretch;
 	background-color: #9f4D18;
-	margin: 20px 20px;
+	margin: 0px 20px;
+}
+
+li.borderimg1 {
+	margin-bottom: 30px;
 }
 
 #sidemenu {
@@ -46,6 +50,10 @@ h3 {
 
 .thepost {
 	padding: 30px;
+}
+
+.thepost img {
+	margin-top: 30px;
 }
 
 .postbottom {
@@ -78,4 +86,10 @@ h1, h2, h3 {
 .maintitle {
 	margin-top: 3em;
 	margin-bottom: 3em;
+}
+
+main {
+	margin-top: 1em;
+	padding: 0;
+	
 }
