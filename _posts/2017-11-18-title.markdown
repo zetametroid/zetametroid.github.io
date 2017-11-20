@@ -5,5 +5,4 @@ date:   2017-11-18 20:00:00
 categories: Personal
 author: Me
 ---
-### Hello
 This is my website. I've wanted a website since I started using the internet, but I've never had even a Geocities or Angelfire. I believe I had a Zeebu or Zobin or god knows what but I never went anywhere with it. Let's see where this one goes.
