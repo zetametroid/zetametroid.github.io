@@ -5,7 +5,6 @@ date:   2017-11-19 17:00:00
 categories: Personal
 author: Me
 ---
-### Working on it
 It's been a week since I started this. So far I've achieved the following:
 1. Bought my own domain.
 2. Set up hosting on GitHub.
