@@ -9,4 +9,4 @@ I read some good things about this one so I thought I’d give it a try. I wasn�
 I play alone mostly and on the first day of playing this game I didn’t feel like I was missing out on anything by going it solo. It does seem like this part of the game is meant to be played on your own so it remains to be seen how things will go from here. Though seeing people running around is undeniably fun and makes the world feel alive. On one memorable occasion, I ended up with my back against a wall fighting two beach sheegoths. My health was draining fast when an armored man showed up out of the horizon, slew my attackers with a flying fire flip, and then ran back from whence he came before I could reach. Whoever you are, acrobatic fireman, you have my thanks.  
 
 Overall I’m going to sleep tonight with Tamriel still on my mind. I can’t wait to continue my adventure. I’m glad to know that as an online game it will continue to grow and the adventure will not end very soon. 
-<img src="../pictures/screenshots/eso1.png" class="ui centered medium image">
+<img src="{{ site.baseurl }}/pictures/screenshots/eso1.png" class="ui centered medium image">
