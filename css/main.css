@@ -52,8 +52,13 @@ li.borderimg1 {
 	padding: 30px;
 }
 
-.thepost img {
+.thepost .image {
 	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+div.ui.image.centered{
+    display: block;
 }
 
 .postbottom {
