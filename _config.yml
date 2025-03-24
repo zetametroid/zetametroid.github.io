@@ -1,6 +1,0 @@
-name: Ashmedai
-#markdown: redcarpet
-#pygments: true
-baseurl: ""
-future: true
-permalink: :title.html
